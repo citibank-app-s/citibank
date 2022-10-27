@@ -1,1 +1,1 @@
-Hello Every One , This File Contains The DBRelated Code
+Hello we are using jdbc command line
